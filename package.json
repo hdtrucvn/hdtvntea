@@ -1,0 +1,9 @@
+{
+  "name": "@hdtrucvn/hdtvntea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@hdtrucvn",
+  "repository": "https://github.com/hdtrucvn/hdtvntea.git",
+  "license": "MIT"
+}
